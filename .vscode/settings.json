@@ -1,29 +1,12 @@
 {
-  "files.associations": {
-    "iosfwd": "cpp",
-    "ostream": "cpp",
-    "iostream": "cpp",
-    "*.tcc": "cpp",
-    "unordered_map": "cpp",
-    "unordered_set": "cpp",
-    "string_view": "cpp",
-    "cmath": "cpp",
-    "iomanip": "cpp",
-    "numeric": "cpp",
-    "chrono": "cpp",
-    "limits": "cpp",
-    "valarray": "cpp"
-  },
-  "C_Cpp.errorSquiggles": "Disabled",
-  "C_Cpp.intelliSenseEngineFallback": "disabled",
-  
   "[cpp]": {
       "editor.formatOnType": true,
       "editor.formatOnSave": true,
       "editor.renderIndentGuides": true,
       "editor.insertSpaces": true,
       "editor.detectIndentation": true,
-      "editor.tabSize": 4
+      "editor.tabSize": 4,
+      "editor.guides.indentation": true
   },
   "clang.executable": "C:\\Program Files\\LLVM\\bin\\clang.exe",
   "clang.cxxflags": [
